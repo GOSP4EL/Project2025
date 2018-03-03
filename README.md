@@ -13,7 +13,7 @@ Here is the list of my project 25, what is yours?
 How can we response to God's Crazy love?
 
 Crazy Love Project25 for V2025B  -- implementation
-1. Set up a github projects for all the data about 1000+ bibleless languages, learning what are these languages.
+1. Set up a github projects for all the data about 1000+ bibleless languages, learning what are these languages.(Done Here, March 3rd)
 2. Ask all people, especially Bible Translator practitioners and partners started their project 25
 3. Set up a website call projects25 for V2025
 4. connect the leadership of BT NGO, e.g. John Walter
