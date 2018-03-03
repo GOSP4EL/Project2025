@@ -6,14 +6,14 @@ Thsi project start from a crazy idea on March 2018.
 https://gosp4el.blogspot.com/2018/03/project-2025-stop-procrastinate-and.html
 
 I have a very long todo list, one of the the items is to put two blog in GOSP4EL blog every month. I'm sorry that I procrastinate a lot. And I try to make it up and make 6 post this month in March. This will be my 30 Day project of this month.
-Yesterday, I thought about a project25 which I learned in Leadership Matter Courses. It is about to think about 25 reasons that you love your love one. I was thinking to implement this as my love to the Triune God. What is His Crazy Love to me? I just wonder how can I response to God with my experience and passion about Bible Translation in past twenty some years.  Thus, I started a list of  project 25 for a list of achieving Vision 2025 and beyond, which is to start Bible translation for those language group who have one, but don't have one yet. One of the simple thing is to start a github project for the language that need it. (I got a Pro-git free ebook from Amazon, yesterday)
+Yesterday, I thought about a project25 which I learned in Leadership Matter Courses. It is about to think about 25 reasons that you love your love one. I was thinking to implement this as my love to the Triune God. What is His Crazy Love to me? I just wonder how can I response to God with my experience and passion about Bible Translation in past twenty some years.  Thus, I started a list of  project 25 for a list of achieving Vision 2025 and beyond, which is to start Bible translation for those language group who have one, but don't have one yet. One of the simple thing is to start a github project for the language that need it. (I got a Pro-git free ebook from Amazon, yesterday, ie. Mar 2nd, 2018)
 
 Here is the list of my project 25, what is yours?
 
 How can we response to God's Crazy love?
 
 Crazy Love Project25 for V2025B  -- implementation
-1. Set up a github projects for all the data about 1000+ bibleless languages, learning what are these languages.(Done Here, March 3rd)
+1. Set up a github projects for all the data about 1000+ bibleless languages, learning what are these languages.(Done Here, March 3rd 2018)
 2. Ask all people, especially Bible Translator practitioners and partners started their project 25
 3. Set up a website call projects25 for V2025
 4. connect the leadership of BT NGO, e.g. John Walter
